@@ -6,7 +6,7 @@ elif x == 20:
 else:
 	print("I dont't know!")
 	
-If x == 100:
+if x == 100:
 	print("x is 100!")
 	
 if x %2 == 0:

@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "C:\\Users\\wrsto\\AppData\\Local\\Programs\\Python\\Python36-32\\pythonw.exe"  
+    // "C:\\Users\\wrsto\\AppData\\Local\\Programs\\Python\\Python36-32\\Lib\\idlelib\\idle.pyw"
+}
